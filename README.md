@@ -1,5 +1,9 @@
-ReactJs : Interrogation de produits à afficher à partir d'une API
-+ Login/Logout 
+ReactJs : 
++ Interrogation de produits à afficher à partir d'une API
++ Login
++ Register
++ Product (interrogation d'un seul produit)
++ Contact
 
 
 
